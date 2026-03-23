@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>XR projects, Unity game development, and building interactive gameplay experiences.<br><br>. 🔗 I’m looking to collaborate on<br>XR applications, Unity games, and experimental interactive projects.<br><br>🤝 I’m looking for help with<br>Advanced XR interactions, performance optimization, and scalable Unity architecture.<br><br>🌱 I’m currently learning<br>XR development workflows, C# scripting, and immersive interaction design.<br><br>💬 Ask me about<br>XR in Unity, game development basics, and building interactive systems.<br><br>⚡ Fun fact<br>I enjoy creating experiences where players feel fully immersed and connected to the world.
+🔭 I’m currently working on<br>XR projects, Unity game development, and building interactive gameplay experiences.<br><br> 🔗 I’m looking to collaborate on<br>XR applications, Unity games, and experimental interactive projects.<br><br>🤝 I’m looking for help with<br>Advanced XR interactions, performance optimization, and scalable Unity architecture.<br><br>🌱 I’m currently learning<br>XR development workflows, C# scripting, and immersive interaction design.<br><br>💬 Ask me about<br>XR in Unity, game development basics, and building interactive systems.<br><br>⚡ Fun fact<br>I enjoy creating experiences where players feel fully immersed and connected to the world.
 
 
 ## 🌐 Socials:
